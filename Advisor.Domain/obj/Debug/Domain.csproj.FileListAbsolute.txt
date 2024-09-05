@@ -1,0 +1,6 @@
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Domain\bin\Debug\Advisor.Domain.dll
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Domain\bin\Debug\Advisor.Domain.pdb
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Domain\obj\Debug\Advisor.Domain.dll
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Domain\obj\Debug\Advisor.Domain.pdb

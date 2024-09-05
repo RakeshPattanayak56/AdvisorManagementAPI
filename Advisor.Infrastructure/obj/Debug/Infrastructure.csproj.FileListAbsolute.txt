@@ -1,0 +1,11 @@
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Infrastructure\obj\Debug\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Infrastructure\obj\Debug\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Infrastructure\bin\Debug\Advisor.Infrastructure.dll
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Infrastructure\bin\Debug\Advisor.Infrastructure.pdb
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Infrastructure\bin\Debug\Advisor.Application.dll
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Infrastructure\bin\Debug\Advisor.Domain.dll
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Infrastructure\bin\Debug\Advisor.Application.pdb
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Infrastructure\bin\Debug\Advisor.Domain.pdb
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Infrastructure\obj\Debug\Infrastr.15EFFBFE.Up2Date
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Infrastructure\obj\Debug\Advisor.Infrastructure.dll
+C:\Users\RP-JC\source\repos\AdvisorManagement\Advisor.Infrastructure\obj\Debug\Advisor.Infrastructure.pdb
